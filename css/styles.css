@@ -127,27 +127,17 @@ body {
 }
 
 /* sidebar */
-.sidebar-section {
+.sidebar {
     background-color: #1E2939;
     width: 370px;
     padding: 40px 0;
 }
 
-.contacts-section {
+.sidebar-section {
     margin: 50px 0 0 40px;
 }
 
-.tech-skills-section {
-    margin: 50px 0 0 40px;
-}
-
-.soft-skills-section {
-    margin: 50px 0 0 40px;
-}
-
-.contacts-title,
-.tech-skills-title,
-.soft-skills-title {
+.sidebar-title {
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -175,8 +165,7 @@ body {
     text-decoration: none;
 }
 
-.tech-skills-list,
-.soft-skills-list {
+.sidebar-list {
     padding-left: 17px;
 }
 
